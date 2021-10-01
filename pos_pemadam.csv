@@ -1,0 +1,130 @@
+wilayah,kecamatan,kelurahan,alamat,jumlah_kondisi_baik,jumlah_kondisi_rusak,luas_lahan,luas_bangunan,keterangan
+Jakarta Pusat,Gambir,Cideng,Jln. Taman Jati Baru,1,0,120,120,Pos Jati Baru
+Jakarta Pusat,Gambir,Gambir,Jln. Veteran,1,0,120,120,Pos SetNeg
+Jakarta Pusat,Gambir,Gambir,Jln. Medan Merdeka Selatan,1,0,120,120,Pos Balaikota
+Jakarta Pusat,Gambir,Petojo Selatan,Jln. Tanah Abang I,1,0,110,110,Pos Walikota
+Jakarta Pusat,Tanah Abang,Kampung Bali,Jln. Fachrudin,1,0,,,Pos Tanah Abang
+Jakarta Pusat,Tanah Abang,Kebon Melati,Jln. H. Awaludin,1,0,210,210,Pos Kebon Melati
+Jakarta Pusat,Tanah Abang,Gelora,Jln. Gatot Subroto,1,0,,,Pos MPR
+Jakarta Pusat,Tanah Abang,Gelora,Jln. Gerbang Pemuda,1,0,,,Pos TVRI
+Jakarta Pusat,Tanah Abang,Karet Tengsin,Jln. Penjernihan Raya,1,0,245,245,Pos Karet
+Jakarta Pusat,Tanah Abang,Petamburan,JL. KS Tubun,1,0,207,,Pos Tubun (Karavan)
+Jakarta Pusat,Menteng,Cikini,Jln. Cikini Raya,1,0,108,108,Pos TIM
+Jakarta Pusat,Menteng,Pegangsaan,"Jl. Proklamasi No.56, RT.10/RW.2",1,0,,,Pos Proklamasi
+Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,Jln. Cempaka Putih Barat,1,0,143,Aset Bangunan Milik Sudin,Pos Cempaka Putih
+Jakarta Pusat,Kemayoran,Serdang,Jln. Lapangan Porst,1,0,270,270,Pos Serdang
+Jakarta Pusat,Kemayoran,Harapan Mulia,Jl. Harapan Mulya,1,0,426,,Pos Harapan Mulia
+Jakarta Pusat,Senen,Bungur,Jln. Bungur Besar Raya,1,0,135,135,Pos Bungur
+Jakarta Pusat,Senen,Pasar Baru,Jln. Lautze,1,0,160,160,Pos Pasar Baru
+Jakarta Utara,Cilincing,Semper Barat,Asrama pemadam kebakaran semper barat,0,1,315,143,Pos Semper Barat (Tidak di jaga)
+Jakarta Utara,Cilincing,Kalibaru,"Jl. Kosambi Kalibaru, Cilincing",1,0,312,143,Pos Kalibaru
+Jakarta Utara,Cilincing,Rorotan,"Jl Pinus Raya, Cilincing",1,0,560,143,Pos Rorotan
+Jakarta Utara,Cilincing,Sukapura,"Jl. Belimbing, Komplek  Gading Griya Lestari",1,0,560,143,Pos Gading Griya Lestari
+Jakarta Utara,Cilincing,Marunda,Jl.Rusun Marunda ,1,0,,,Pos Marunda
+Jakarta Utara,Koja,Lagoa,Jl Mangga No.1,1,0,,,Pos Lagoa
+Jakarta Utara,Tanjung Priok,Sunter Agung,Jl. Podomoro Sunter,1,0,222,143,Pos Podomoro
+Jakarta Utara,Tanjung Priok,Kebon Bawang,Jl.Yos Sudarso,1,0,,,Pos Walikota
+Jakarta Utara,Tanjung Priok,Papanggo,Jl.Bisma Timur II (2017),1,0,,,Pos Pemadam Papanggo
+Jakarta Utara,Tanjung Priok,Sunter Agung,"Jl.Gaya Motor, Sunter",1,0,210,143,Pos Gaya Motor
+Jakarta Utara,Tanjung Priok,Sunter Jaya,Jl. Danau Sunter Utara,1,0,,,Pos Caravan Danau Sunter
+Jakarta Utara,Tanjung Priok,Warakas,Jl. Warakas Raya ,1,0,,,Pos Caravan Warakas
+Jakarta Utara,Kelapa Gadin,Kelapa Gading Barat,"Jl. Pelepah Indah LC 3, Klp Gading",1,0,560,143,Pos Kelapa Gading Barat
+Jakarta Utara,Kelapa Gadin,Kelapa Gading Barat,Jl. Gading Kirana Utara RW.08 Klp Gading Barat,1,0,,96.3,Pos Kelapa Gading Kirana /2018
+Jakarta Utara,Kelapa Gadin,Pegangsaan Dua,Jl. Taman Pegangsaan II,1,0,535,143,Pos Pegangsaan II
+Jakarta Utara,Kelapa Gadin,Pegangsaan Dua,Jl Kelapa Puan Timur Blok NF Rt014/012,1,0,390,108,Pos Pemadam RW 12
+Jakarta Utara,Pademangan,Ancol,"Jl. Lodan Timur 5, Kel Ancol Pademangan",1,0,510,143,Pos Binaria
+Jakarta Utara,Pademangan,Pademangan Timur,"Jl. Pademangan IX, Pademangan Timur",1,0,165,143,Pos Pademangan Timur
+Jakarta Utara,Pademangan,Pademangan Barat,"Jl. Budi Mulya, Pademangan Barat ",1,0,597,143,Pos Pademangan Barat
+Jakarta Utara,Penjaringan,Pejagalan,"Jl.Taman Permata Indah, Kel. Pejagalan",1,0,315,143,Pos Teluk Gong
+Jakarta Utara,Penjaringan,Penjaringan,"Jl. Pantai Indah Timur Raya, Penjaringan",1,0,510,143,Pos Penjaringan
+Jakarta Utara,Penjaringan,Penjaringan,Jl. Pelabuhan Perikanan Penjaringan,1,0,304,143,Pos Muara Baru
+Jakarta Utara,Penjaringan,Kapuk Muara,"Jl. Pantai Indah Timur Raya, Penjaringan",1,0,462,143,Pos PIK
+Jakarta Utara,Penjaringan,Pluit,"Jl. Pluit Barat Terusan, Kel. Pluit",1,0,410,143,Pos Pluit
+Jakarta Utara,Penjaringan,Pluit,"Jl. Dermaga Pelabuhan, Kel. Pluit",1,0,425,143,Pos Muara Angke
+Kepulauan Seribu,Kep Seribu Utara,Pulau Panggang,Pulau Panggang,1,0,,,Pos P. Karya
+Kepulauan Seribu,Kep Seribu Utara,Pulau Kelapa,Pulau Kelapa,1,0,,,Pos Pulau Kelapa
+Kepulauan Seribu,Kep Seribu Utara,Pulau Harapan,Pulau Harapan,1,0,,,Pos Pulau Harapan
+Kepulauan Seribu,Kep Seribu Utara,Pulau Sebira,Pulau Sebira,1,0,,,Pos Pulau Sebira
+Kepulauan Seribu,Kep Seribu Selatan,Pulau Tidung,Pulau Tidung,1,0,,,Pos Pulau Tidung
+Kepulauan Seribu,Kep Seribu Selatan,Pulau Untung Jawa,Pulau Untung Jawa,1,0,,,Pulau Untung Jawa
+Kepulauan Seribu,Kep Seribu Selatan,Pulau Lancang,Pulau Lancang,1,0,,,Pulau Lancang
+Kepulauan Seribu,Kep Seribu Selatan,Pos Pemadam Pelabuhan Muara Angke,Pelabuhan Muara Angke,1,0,,,Pos Pelabuhan muara Angke
+Jakarta Barat,Grogol Petamburan,Jelambar Baru,Jl Wijaya Kusuma,1,0,400,143,(Pos Duta Mas)
+Jakarta Barat,Palmerah,Palmerah,"Jl.Kemanggisan RW,03",1,0,,,Pos Rengkas
+Jakarta Barat,Palmerah,Jati Pulo,RPTRA Jati Pulo,1,0,,,Jati Pulo
+Jakarta Barat,Tambora,Krendang,Jl.Krendang Utara 5,1,0,560,143,Pos Krendang
+Jakarta Barat,Tambora,Angke,Jl. Angke indah Raya,1,0,530,143,Pos Angke
+Jakarta Barat,Tambora,Jembatan Besi,Jl. Jembatan Besi,1,0,,,Pos Jembes
+Jakarta Barat,Tambora,Kalianyar,Jl. Kalianyar,1,0,,,Pos Polo Kalianyar
+Jakarta Barat,Tamansari,Tangki,Jl Mangga Besar VII ,1,0,178,155,Pos Lokasari
+Jakarta Barat,Tamansari,Glodok,"Jl.Gajah Mada No,112 Rt,014/01",1,0,,,Pos Hotel Holiday Inn
+Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Jl Kebon Jeruk Baru (Pasum),,0,,,Kantor Sektor Kebon Jeruk
+Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Jl. Raya Perjuangan Kav.8 Kb. Jeruk,1,0,,,Pos Siloam
+Jakarta Barat,Kebon Jeruk,Kelapa Dua,Jl C (jalan Panjang),1,0,400,143,Pos Kebon Jeruk 
+Jakarta Barat,Kebon Jeruk,Duri Kepa,Perumahan green Ville RW.009,1,0,,,Pos GreenVille
+Jakarta Barat,Kebon Jeruk,Kedoya Utara,"Jl. Taman Ratu  RW,011",1,0,,,Pos Kedoya Utara
+Jakarta Barat,Kebon Jeruk,Kedoya Selatan,Rumah Dinas Lurah Kedoya Selatan,1,0,,,Pos Kedoya Selatan
+Jakarta Barat,Kebon Jeruk,Sukabumi Utara,"Jl. Sulaiman No.56, RT.10/RW.3",1,0,,,Pos Pasar Kembang Rw. Belong
+Jakarta Barat,Kembangan,Joglo,Jl.Joglo raya,1,0,,143,Pos Joglo (bersertifikat)
+Jakarta Barat,Kembangan,Kembangan Selatan,Jl.Kembangan Raya,1,0,680/450,450/143,Pos Puri Kembangan
+Jakarta Barat,Cengkareng,Cengkareng Barat,Jl.Kamal Raya,1,0,725/500,450/143,Pos Cengkareng
+Jakarta Barat,Cengkareng,Duri Kosambi,Jl. Nusa Indah II,1,0,500,143,Pos Kresek
+Jakarta Barat,Cengkareng,Cengkareng Timur,Jl. Daan Mogot,,,,,Pos Daan Mogot (sudah pindah ke Pos Cengkareng Timur)
+Jakarta Barat,Cengkareng,Cengkareng Timur,Jl.Ruko Mutiara Taman  Palm Blok B6 No.1,1,0,,,Pos Cengkareng Timur
+Jakarta Barat,Cengkareng,Rawa Buaya,"Jl. Al Hikmah No.39, RT 09 RW 03",1,0,500,143,Pos Rawa Buaya
+Jakarta Barat,Kalideres,Kalideres,Jl. Perum Citra I,1,0,250,143,Pos Citra Garden
+Jakarta Barat,Kalideres,Pegadungan,Jl.Perum Citra 5 Blok C 10/Perum Citra II.,1,0,630/114,450/99,Pos Pegadungan
+Jakarta Barat,Kalideres,Semanan,Jl. Raya Semanan No. 45,1,0,,,Pos Semanan
+Jakarta Barat,Kalideres,Kamal,Gg.H.Amat Kamp Belakang RT09/03,1,0,,,Pos Kamal
+Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara,Jl. Ciputat Raya Kebayoran Lama,1,0,300,99,Pos Tanah Kusir
+Jakarta Selatan,Kebayoran Lama,Grogol Utara,Jl. Kebayoran Lama,1,0,302,99,Pos Grogol Utara
+Jakarta Selatan,Kebayoran Lama,Cipulir,Jl. Ciledug Raya,0,1,469,99,Pos Cipulir
+Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Selatan,Jl.Sutan Iskandar Muda,1,0,,,Pos Gandaria City
+Jakarta Selatan,Kebayoran Baru,Kramat Pela,Jl. Radio II Kebayoran Baru,1,0,2000,99,Pos Kebayoran Baru
+Jakarta Selatan,Kebayoran Baru,Petogogan,Jl. Prapanca Raya No. 9,1,0,,,Pos Walikota JakSel
+Jakarta Selatan,Kebayoran Baru,Selong,Jl. Trunojoyo No. 3 (Milik Mabes),1,0,,,Pos Selong
+Jakarta Selatan,Mampang Prapatan,Kuningan Barat,Jl. Kapten Tendean,1,0,420,99,Pos Mampang P.
+Jakarta Selatan,Mampang Prapatan,Bangka,Jl.Antasari ,1,0,,,Pos Kemang
+Jakarta Selatan,Pesanggrahan,Pesanggrahan,Jl. Pesanggrahan Indah,1,0,560,440,Pos Pesanggrahan
+Jakarta Selatan,Cilandak,Cipete Selatan,Jl. Melati Raya Cipete Selatan,1,0,572,95,Pos Cipete
+Jakarta Selatan,Cilandak,Lebak Bulus,Jl. RA Kartini ,1,0,,,Pos Siloam RA Kartini
+Jakarta Selatan,Cilandak,Lebak Bulus,Jl. Puskesmas (Rumah dinas Lurah lebak bulus),1,0,,,Pos Lebak Bulus
+Jakarta Selatan,Tebet,Tebet Barat,"Jl. Prof. DR. Supomo, S.H.",0,1,2750,216,Pos Tebet
+Jakarta Selatan,Tebet,Menteng Dalam,Jl. Casablanka Raya (Milik Ambasador),1,0,273,132,Pos Casablanca
+Jakarta Selatan,Setia Budi,Karet Semanggi,Jl. Garnisun Dalam Kav. 2-3 (Milik Siloam),1,0,420,99,Pos Karet Semanggi
+Jakarta Selatan,Setia Budi,Menteng Atas,Jl. Casablanka Raya (Milik Ambasador),1,0,273,132,Pos Casablanca
+Jakarta Selatan,Pancoran,Rawajati,Komp. MPR Kalibata (milik Sekneg),1,0,193,99,Pos Kalibata
+Jakarta Selatan,Pasar Minggu,Pejaten Barat,Jl. Raya Pejaten Barat No.3 Rt.01 Rw.07,0,1,965,99,Pos Pejaten Barat
+Jakarta Selatan,Pasar Minggu,Pasar Minggu,Jl. Tanjung Barat Raya Rt.09 Rw.7,1,0,915,99,Pos Pasar Minggu
+Jakarta Selatan,Pasar Minggu,Pejaten Timur,Jl. Swadaya I Rt.7 Rw.10 (Rumah Dinas Lurah Pejaten Timjur),1,0,,,Pos Pejaten Timur
+Jakarta Selatan,Pasar Minggu,Pejaten Timur,Jl. Seno Raya Rt.02 Rw.04 (milik BIN),1,0,,,Pos BIN
+Jakarta Selatan,Pasar Minggu,Cilandak Timur,Jl. Madrasah No.14 Rt.07 Rw.06(Rumdis Lurah Cilandak Timur),1,0,,,Pos Cilandak Timur
+Jakarta Selatan,Pasar Minggu,Kebagusan,Jl. Kebagusan Kecil IV Rt.09 Rw.05,1,0,,,Pos Kebagusan
+Jakarta Selatan,Pasar Minggu,PPOP Ragunan,Kawasan PPOP Ragunan (Unit Caravan),1,0,,,Pos PPOP Ragunan (Rencana Pembangunan 2021)
+Jakarta Selatan,Jagakarsa,Ciganjur,Jl. Brigif (Milik Korsik),1,0,,,Pos Ciganjur
+Jakarta Selatan,Jagakarsa,Srengseng Sawah,Jl. Srengseng Sawah,0,1,942,99,Pos Srengseng Sawah
+Jakarta Timur,Matraman,Utan Kayu Utara,Jl. Pengayoman,1,0,150,110,Pos Utan Kayu
+Jakarta Timur,Pulogadung,Kayu Putih,Jl. P. Mas Barat,1,0,400,150,Jl. Pos pulo mas
+Jakarta Timur,Pulogadung,Pisangan Timur,Jl. Ps. Induk Cipinang,1,0,,150,Pos Cipinang
+Jakarta Timur,Pulogadung,Kayu Putih,Jl. Perintis Kemerdekaan,1,0,,,Pos Gudang Arsip
+Jakarta Timur,Cakung,Pulo Gebang,Jl. Sentra Primer,1,0,600,170,Pos Walikota
+Jakarta Timur,Cakung,Penggilingan,Jl. Raya Penggilingan,1,0,200,175,Pos Penggilingan
+Jakarta Timur,Cakung,Cakung Timur,Jl. Raya Bekasi KM 23,1,0,252,168,Pos cakung
+Jakarta Timur,Cakung,Pulo Gebang,Jl. Stasiun Cakung,1,0,,,Pos Terminal Pulo Gebang
+Jakarta Timur,Cakung,Rawa Terate,Jl. Pulo Lentut,1,0,320,143,Pos JIEP (Kawasan Industri Pulo Gadung)
+Jakarta Timur,Jatinegara,Cipinang Cimpedak,Jl.D.I Panjaitan,1,0,,132,Pos Jatinegara
+Jakarta Timur,Duren Sawit,Pondok Kelapa,Jl. Pondok Kelapa Raya,1,0,360,150,Pos  Pondok Kelapa 
+Jakarta Timur,Duren Sawit,Pondok Bambu,Jl. Balai Rakyat,0,1,400,180,Pos Pondok Bambu
+Jakarta Timur,Duren Sawit,Duren Sawit,Jl. Swadaya (Pos),1,0,240,180,Pos Duren Sawit
+Jakarta Timur,Duren Sawit,Pondok Kopi,Jl. Raya Pondok Kopi,1,0,380,170,Pos  Pondok Kopi
+Jakarta Timur,Duren Sawit,Klender,Jl. Wijaya Kusuma,1,0,400,170,Pos Klender
+Jakarta Timur,Kramat Jati,Batu Ampar,Jl. Batu Ampar,1,0,,70,Pos Batu Ampar
+Jakarta Timur,Kramat Jati,Cililitan,Pusat Grosir Cililtan,1,0,,,Pos PGC
+Jakarta Timur,Kramat Jati,Kramat Jati,Jl. Kerja Bakti,1,0,,,Pos Kramat Jati
+Jakarta Timur,Ciracas,Ciracas,Jl. Raya Ciracas,0,1,,,Pos Pusdiklat
+Jakarta Timur,Ciracas,Susukan,Jl. Raya Bogor Km 23,1,0,,,Pos BLK
+Jakarta Timur,Ciracas,Rambutan,Jl. Raya Bogor,0,1,,,Pos Komseko
+Jakarta Timur,Cipayung,Cipayung,Jl. Raya Hankam,1,0,370,180,Pos Cipayung
+Jakarta Timur,Cipayung,Ceger,Jl. Komplek TMII Kel. Ceger Kec.Cipayung,1,0,,224,Pos TMII
+Jakarta Timur,Cipayung,Lubang Buaya,Jl. SMA,1,0,400,170,Pos Lubang Buaya
+Jakarta Timur,Pasar Rebo,Kalisari,Jl. Raya Lapan Kel. Kalisari,1,0,600,180,Pos Pekayon
